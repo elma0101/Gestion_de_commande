@@ -1,0 +1,9 @@
+5 alsa2 alsa2 alsa2 alsa2 60 5
+5 alsa2 alsa2 alsa2 alsa2 15 3
+2 ecouteurs H38 tech lenovo 20 2
+5 alsa3 alsa3 alsa3 alsa3 14 1
+2 Smartphone A53 tech samsung 200 1
+2 calculatrice FX-95ES bureautique Casio 100 1
+1 manette GE2332 jeux-videos SONY 10 2
+1 RDR2 ABC456 jeux-videos Rockstar 200 1
+1 FIFA23 ABC123 jeux-videos EA-sport 500 1
